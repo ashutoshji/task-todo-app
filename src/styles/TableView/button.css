@@ -1,0 +1,28 @@
+.button {
+    margin: 10px;
+    height: 6vh!important;
+    display: flex;
+    flex: .4;
+    background-color: #0279bf!important;
+    background-color: rgb(2, 121, 191)!important;
+    margin-right: 50px!important;
+}
+
+@media screen and (max-width: 600px) {
+    .button {
+        width: 100%;
+        flex: 1!important;
+        margin-right: 0px!important;
+        margin-bottom: 2vh!important;
+    }
+}
+
+
+@media screen and (max-width: 1025px) and (min-width: 601px) {
+    .button {
+        width: 100%;
+        flex: 1!important;
+        margin-right: 0px!important;
+        margin-bottom: 2vh!important;
+    }
+}

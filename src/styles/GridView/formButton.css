@@ -1,0 +1,13 @@
+.form-button {
+    padding: 10px!important;
+    /* border: 2px solid blue!important; */
+    margin-left: 5%!important;
+    width: 85%!important;
+    margin-top: 8%!important;
+    background-color: #4FB286!important;
+    color: white!important;
+}
+.delete {
+    background-color: #B00020!important;
+    color: white!important;
+}

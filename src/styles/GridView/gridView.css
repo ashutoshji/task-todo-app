@@ -1,0 +1,10 @@
+.grid-container {
+    width: 100%;
+    height: min-content;
+    background-color: transparent;
+}
+.task-container:hover {
+    background-color: #f7f3f3;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+}
