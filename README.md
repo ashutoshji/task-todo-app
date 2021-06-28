@@ -1,8 +1,8 @@
 # React Task Status
 
 # Setup 
-* git clone url
-* cd react-task-status
+* git clone https://github.com/ashutoshji/task-todo-app.git
+* cd task-to-app
 * npm install
 * npm run start
 
