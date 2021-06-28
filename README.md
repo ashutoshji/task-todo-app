@@ -2,7 +2,7 @@
 
 # Setup 
 * git clone https://github.com/ashutoshji/task-todo-app.git
-* cd task-to-app
+* cd task-todo-app
 * npm install
 * npm run start
 
